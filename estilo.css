@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+#bgdiv{
+    background-image: url(Ceu.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: fixed;
+    width: 768px;
+    height: 1366px;
+    left: 50%;
+    margin-left: -384px;
+}
